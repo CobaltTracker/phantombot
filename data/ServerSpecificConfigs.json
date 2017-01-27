@@ -1,0 +1,64 @@
+{
+  "139836514338209792": {
+    "VoicePlusTextEnabled": false,
+    "SendPrivateMessageOnMention": false,
+    "LogChannel": 173928797987536897,
+    "LogPresenceChannel": 173928797987536897,
+    "LogserverIgnoreChannels": [],
+    "VoiceChannelLog": {},
+    "ListOfSelfAssignableRoles": [
+      173599253007040512,
+      213390602623123457,
+      150727857449074688
+    ],
+    "AutoAssignedRole": 0,
+    "GenerateCurrencyChannels": {},
+    "AutoDeleteMessagesOnCommand": false,
+    "ExclusiveSelfAssignedRoles": true,
+    "ObservingStreams": [
+      {
+        "Username": "phantomsoftheaces",
+        "Type": 0,
+        "ServerId": 139836514338209792,
+        "ChannelId": 150729472990117888,
+        "LastStatus": false
+      },
+      {
+        "Username": "ngngtv",
+        "Type": 0,
+        "ServerId": 139836514338209792,
+        "ChannelId": 150760777031221248,
+        "LastStatus": false
+      },
+      {
+        "Username": "piranhagames",
+        "Type": 0,
+        "ServerId": 139836514338209792,
+        "ChannelId": 150760777031221248,
+        "LastStatus": false
+      },
+      {
+        "Username": "the_chieftain",
+        "Type": 0,
+        "ServerId": 139836514338209792,
+        "ChannelId": 150821597266051073,
+        "LastStatus": false
+      },
+      {
+        "Username": "wglna",
+        "Type": 0,
+        "ServerId": 139836514338209792,
+        "ChannelId": 150821597266051073,
+        "LastStatus": false
+      },
+      {
+        "Username": "wargaming",
+        "Type": 0,
+        "ServerId": 139836514338209792,
+        "ChannelId": 150821597266051073,
+        "LastStatus": false
+      }
+    ],
+    "DefaultMusicVolume": 0.25
+  }
+}

@@ -1,0 +1,220 @@
+{
+  "PermissionsControllerRole": "Administrator",
+  "Verbose": true,
+  "Id": 139836514338209792,
+  "Permissions": {
+    "Name": "Phantoms of the Aces",
+    "Modules": {
+      "NSFW": false,
+      "Administration": true,
+      "Permissions": false,
+      "ClashOfClans": false
+    },
+    "Commands": {
+      "<@151324909224722432> fire": false,
+      "<@151324909224722432> copyme": false,
+      "<@151324909224722432> disguise": false,
+      "<@213442145246380038> fire": false
+    },
+    "FilterInvites": false,
+    "FilterWords": false
+  },
+  "Words": [
+    "nigger",
+    "cunt"
+  ],
+  "UserPermissions": {
+    "105022404585070592": {
+      "Name": "RTSThunder",
+      "Modules": {},
+      "Commands": {
+        "\\o\\": false,
+        "/o/": false
+      },
+      "FilterInvites": false,
+      "FilterWords": false
+    }
+  },
+  "ChannelPermissions": {
+    "150729472990117888": {
+      "Name": "general_discussion",
+      "Modules": {
+        "Games": false,
+        "Pokegame": false,
+        "Music": false
+      },
+      "Commands": {},
+      "FilterInvites": false,
+      "FilterWords": false
+    },
+    "150821903681060865": {
+      "Name": "armored_warfare",
+      "Modules": {
+        "Games": false,
+        "Pokegame": false,
+        "Music": false
+      },
+      "Commands": {},
+      "FilterInvites": false,
+      "FilterWords": false
+    },
+    "150760777031221248": {
+      "Name": "mechwarrior_online",
+      "Modules": {
+        "Games": false,
+        "Pokegame": false,
+        "Music": false
+      },
+      "Commands": {},
+      "FilterInvites": false,
+      "FilterWords": false
+    },
+    "213330377723346944": {
+      "Name": "star_citizen",
+      "Modules": {
+        "Games": false,
+        "Pokegame": false,
+        "Music": false
+      },
+      "Commands": {},
+      "FilterInvites": false,
+      "FilterWords": false
+    },
+    "150821597266051073": {
+      "Name": "wargaming_na",
+      "Modules": {
+        "Games": false,
+        "Pokegame": false,
+        "Music": false
+      },
+      "Commands": {},
+      "FilterInvites": false,
+      "FilterWords": false
+    },
+    "151166015701647360": {
+      "Name": "shitposting",
+      "Modules": {
+        "Games": false,
+        "Pokegame": false,
+        "Music": false
+      },
+      "Commands": {},
+      "FilterInvites": false,
+      "FilterWords": false
+    },
+    "154795120548380672": {
+      "Name": "games",
+      "Modules": {
+        "Games": true,
+        "Pokegame": true,
+        "Music": false
+      },
+      "Commands": {},
+      "FilterInvites": false,
+      "FilterWords": false
+    },
+    "156151108895637505": {
+      "Name": "welcome",
+      "Modules": {
+        "Games": false,
+        "Pokegame": false,
+        "Music": false
+      },
+      "Commands": {},
+      "FilterInvites": false,
+      "FilterWords": false
+    },
+    "213432457922478080": {
+      "Name": "music",
+      "Modules": {
+        "Games": false,
+        "Pokegame": false,
+        "Music": true
+      },
+      "Commands": {},
+      "FilterInvites": false,
+      "FilterWords": false
+    },
+    "173928797987536897": {
+      "Name": "server_log",
+      "Modules": {
+        "Games": false,
+        "Pokegame": false,
+        "Music": false
+      },
+      "Commands": {},
+      "FilterInvites": false,
+      "FilterWords": false
+    },
+    "139836514338209792": {
+      "Name": "announcements",
+      "Modules": {
+        "Games": false,
+        "Pokegame": false,
+        "Music": false
+      },
+      "Commands": {},
+      "FilterInvites": false,
+      "FilterWords": false
+    },
+    "151399297928265729": {
+      "Name": "officers_chat",
+      "Modules": {
+        "Games": false,
+        "Pokegame": false,
+        "Music": false
+      },
+      "Commands": {},
+      "FilterInvites": false,
+      "FilterWords": false
+    }
+  },
+  "RolePermissions": {
+    "139837760449150976": {
+      "Name": "Administrator",
+      "Modules": {
+        "Administration": true
+      },
+      "Commands": {},
+      "FilterInvites": false,
+      "FilterWords": false
+    },
+    "150672579059908608": {
+      "Name": "Moderator",
+      "Modules": {
+        "Administration": true
+      },
+      "Commands": {},
+      "FilterInvites": false,
+      "FilterWords": false
+    },
+    "213390602623123457": {
+      "Name": "Friends",
+      "Modules": {
+        "Music": false
+      },
+      "Commands": {},
+      "FilterInvites": false,
+      "FilterWords": false
+    },
+    "150727857449074688": {
+      "Name": "Trainee",
+      "Modules": {
+        "Music": false
+      },
+      "Commands": {},
+      "FilterInvites": false,
+      "FilterWords": false
+    },
+    "150728324098949121": {
+      "Name": "Member",
+      "Modules": {},
+      "Commands": {
+        "!!reptcursong": false
+      },
+      "FilterInvites": false,
+      "FilterWords": false
+    }
+  },
+  "CommandCooldowns": {}
+}
